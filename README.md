@@ -6,3 +6,5 @@
 ### changed package.json for module js
 
 ### installed nodemon and change package.json as "start": "nodemon src/index.js",
+
+### installed prettier
