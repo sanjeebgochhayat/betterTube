@@ -11,3 +11,5 @@
 
 ### username codedreamer07
 ### password ium1tlgCQc7jqyh4
+
+### remove ending slash from the connection string
