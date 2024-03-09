@@ -13,3 +13,6 @@
 ### password ium1tlgCQc7jqyh4
 
 ### remove ending slash from the connection string
+
+### install dot.env
+### install mongoose and express
