@@ -1,5 +1,12 @@
-import mongoose from "mongoose";
-import { DB_Name } from "./constants";
+// require('dotenv').config({path:'./env'});   //calling dotenv in first, with configuration
+import dotenv from 'dotenv';
+import connectDB from './db/index.js'; 
+
+dotenv.config({
+    path:'./env'
+})
+
+connectDB();
 
 
 

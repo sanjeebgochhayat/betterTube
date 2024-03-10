@@ -16,3 +16,5 @@
 
 ### install dot.env
 ### install mongoose and express
+
+### edit package.json as "start": "nodemon -r dotenv/config --experimental-json-modules src/index.js", because we are importing dotenv instead of requiring, so this is an experimental feature
