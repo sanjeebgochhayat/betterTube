@@ -20,3 +20,5 @@
 ### edit package.json as "start": "nodemon -r dotenv/config --experimental-json-modules src/index.js", because we are importing dotenv instead of requiring, so this is an experimental feature
 
 ### installed cookie-parser, cors
+
+### installed mongoose-aggregate-paginate-v2 and bcrypt and jwt
